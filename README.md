@@ -1,0 +1,1 @@
+Bazel shared lib bug
